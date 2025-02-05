@@ -13,7 +13,7 @@ Language: Java (JDK 11+)
 git clone https://github.com/yourusername/expense-tracker-java.git
 
 # Navigate to project directory
-cd expense-tracker-java
+cd Expense-Tracker
 
 # Build and run the project (Maven)
 mvn clean install  
